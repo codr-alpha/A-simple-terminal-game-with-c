@@ -1,0 +1,1 @@
+void lostpage(int score, char name[40]);

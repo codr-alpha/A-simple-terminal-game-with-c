@@ -1,0 +1,1 @@
+gcc main.c menu.c logs.c game.c exit_page.c lostpage.c -lncurses
